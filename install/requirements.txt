@@ -1,0 +1,10 @@
+plantcv==3.14.3
+numpy==1.22.4
+scipy==1.9.1
+scikit-image==0.20.0
+matplotlib==3.5.3
+pandas==2.0.1
+scikit-learn==1.2.0
+Flask==2.3.2
+Flask-Cors==3.0.10
+ipykernel==6.23.1
